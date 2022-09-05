@@ -17,5 +17,7 @@
 5、src/client/LLianPayClient.php 包含发起请求方法。<br/>
 
 ### Demo说明（持续完善中）
+#### 充值/消费API：
+* 统一支付创单：TradeCreateDemo.php https://open.lianlianpay.com/docs/accp/accpstandard/accp-tradecreate.html
 #### 公共API：
-* 随机因子获取：TestGetRandomParams.php https://open.lianlianpay.com/docs/accp/accpstandard/get-random.html
+* 随机因子获取：GetRandomDemo.php https://open.lianlianpay.com/docs/accp/accpstandard/get-random.html
