@@ -1,0 +1,5 @@
+# 忽略composer相关文件
+composer.lock
+vendor/
+# 忽略日志
+logs/
